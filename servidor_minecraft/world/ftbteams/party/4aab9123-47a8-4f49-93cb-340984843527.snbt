@@ -1,0 +1,17 @@
+{
+	id: "4aab9123-47a8-4f49-93cb-340984843527"
+	type: "party"
+	owner: "349e4b3a-0018-34a8-a2fc-69a3b99167cc"
+	ranks: {
+		349e4b3a-0018-34a8-a2fc-69a3b99167cc: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "skibidis"
+		"ftbteams:description": ""
+		"ftbteams:color": "#0000AA"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1730769051555L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Pilin\"}]}" }]
+	extra: { }
+}
